@@ -53,6 +53,18 @@ Fig.8b)
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
 
 
-### Other parts
+Computation of Cut Distance
+-----------------
+
+See "cut_dist" directory.
+More details awaiting...
+
+
+Molecular Dynamics (MD) Simulation
+-----------------
+awaiting...
+
+Other Parts
+-----------------
 
 awaiting...
