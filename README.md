@@ -1,7 +1,7 @@
 A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter
 ==============
 
-This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter". This paper has been accepted by Physical Review B, see https://journals.aps.org/prb/accepted/53077Y62C9617381706a3d110d240ddd61442da3c.
+This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter". This paper has been published on Physical Review B, see https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
 
 
