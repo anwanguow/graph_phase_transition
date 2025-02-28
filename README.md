@@ -1,7 +1,7 @@
-A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter
+Graph theory based approach to identify phase transitions in condensed matter
 ==============
 
-This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter". This paper has been published in Physical Review B (PRB), see https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
+This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "Graph theory based approach to identify phase transitions in condensed matter". This paper has been published in Physical Review B (PRB), see https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
 
 Computation of Cut Distance
