@@ -4,6 +4,10 @@ A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter
 This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "A Graph Theory-based Approach to Identify Phase Transitions in Condensed Matter". This paper has been published in Physical Review B (PRB), see https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
 
+Computation of Cut Distance
+-----------------
+
+See "cut_dist" directory.
 
 
 Figures
@@ -52,12 +56,6 @@ Fig.8b)
 
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
 
-
-Computation of Cut Distance
------------------
-
-See "cut_dist" directory.
-More details awaiting...
 
 
 Molecular Dynamics (MD) Simulation
