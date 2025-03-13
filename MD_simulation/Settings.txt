@@ -1,2 +1,36 @@
 Details of MD simulations
 
+seed = 462431 for all simulations
+10 different init_velocity are:
+w_0 = 1741580
+w_1 = 2750902
+w_2 = 5300450
+w_3 = 6583654
+w_4 = 9622624
+w_5 = 6229865
+w_6 = 8172548
+w_7 = 9580093
+w_8 = 3143649
+w_9 = 5833274
+
+
+I. LJ system: dump each 100 step
+
+1. Final Temperatures:
+variable temp equal (0.75)    # temperature to simulate at
+
+2. Init velocities:
+velocity all create 2.4 1741580 mom yes dist gaussian # Assign velocities = 1741580
+
+
+II. KA system: dump each 1000 step
+
+1. The ratio of B particles:
+set type 1 type/fraction 2 0.28 78393
+
+2. Quenching steps:
+run 2000000 # step_in_the_paper times 100
+
+3. Init velocities:
+velocity all create 2.4 1741580 mom yes dist gaussian # Assign velocities = 1741580
+

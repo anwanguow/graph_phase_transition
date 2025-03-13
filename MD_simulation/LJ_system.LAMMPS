@@ -58,7 +58,7 @@ write_data data.*
 #   M E L T   S Y S T E M   #
 #############################
 
-velocity all create 2.4 4103924 mom yes dist gaussian # Assign velocities
+velocity all create 2.4 1741580 mom yes dist gaussian # Assign velocities
                                                     # Temperature 2.4, random number seed, zero linear momentum
 						                                                        # Gaussian distribution
 
@@ -129,7 +129,7 @@ dump dmp2 all dcd ${N} traj_${rand}.dcd
 # fix rnuntil all halt ${N} v_max_n >= 3980 error soft message no   # Stop when solidified
 
 
-run 10000 # 5000000  # Run for this many steps
+run 100000 # step_in_the_paper times 100 
 
 #clear
 #

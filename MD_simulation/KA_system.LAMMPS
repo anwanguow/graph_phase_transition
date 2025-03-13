@@ -46,7 +46,7 @@ write_data data.0
 #   M E L T   S Y S T E M   #
 #############################
 
-velocity all create 2.4 4344764 mom yes dist gaussian # Assign velocities
+velocity all create 2.4 1741580 mom yes dist gaussian # Assign velocities
                                                     # Temperature 2.4, random number seed, zero linear momentum
                                                                                 # Gaussian distribution
 
@@ -115,7 +115,7 @@ variable fit equal slope(f_9)/6/(10*dt)
 thermo_style custom step temp pe c_msd[4] v_twopoint v_fit v_max_n
 
 fix 1 all npt temp 1.25 ${temp} 0.1 iso 5.68 5.68 0.5 mtk yes tchain 5 pchain 5
-run 2000000 # 5000000  # Run for this many steps
+run 2000000 # step_in_the_paper times 100 
 
 #clear
 #
