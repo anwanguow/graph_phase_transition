@@ -1,14 +1,6 @@
 Graph theory based approach to identify phase transitions in condensed matter
 ==============
 
-This repository provides all the algorithms, computational data, and scripts used for generating the figures in the paper "Graph theory based approach to identify phase transitions in condensed matter". This paper has been published in Physical Review B (PRB), see https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
-
-链接: https://pan.baidu.com/s/13V_jR030NeefVrGKnXca4Q?pwd=f9ud 提取码: f9ud 
---来自百度网盘超级会员v1的分享
-
-I am too busy...
-
-MD simulation script will be uploaded before 16 Mar 2025.
 
 Computation of Cut Distance
 -----------------
@@ -18,6 +10,9 @@ See "cut_dist" directory.
 
 Figures
 -----------------
+
+The generation of Fig.6 requires the complete trajectory data from the KA system simulation. This data has been uploaded to Baidu Netdisk at the following link: https://pan.baidu.com/s/13V_jR030NeefVrGKnXca4Q and the access code is: f9ud. For readers who do not have access to Baidu Netdisk, please contact me directly if you need this data.
+
 
 All python scripts in "Plot" directory reproduces the computed figures in the article, including Fig.2b), Fig.2c), Fig.3a), Fig.3b), Fig.4a), Fig.4b), Fig.5b), Fig.5c), Fig.8a) and Fig.8b). Besides, the generated figures are saved in "Figure" directory, demonstrated as follow:
 
@@ -61,6 +56,7 @@ Fig.8a)
 Fig.8b)
 
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
+
 
 
 
