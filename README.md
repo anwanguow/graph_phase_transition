@@ -62,7 +62,8 @@ Fig.8b)
 
 Molecular Dynamics (MD) Simulation
 -----------------
-awaiting...
+
+See "MD_simulation" directory for the LAMMPS scripts.
 
 Other Parts
 -----------------
