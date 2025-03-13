@@ -26,7 +26,7 @@ velocity all create 2.4 1741580 mom yes dist gaussian # Assign velocities = 1741
 II. KA system: dump each 1000 step
 
 1. The ratio of B particles:
-set type 1 type/fraction 2 0.28 78393
+set type 1 type/fraction 2 0.28 78393   # ratio_of_B_particles = 0.28
 
 2. Quenching steps:
 run 2000000 # step_in_the_paper times 100
