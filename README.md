@@ -3,7 +3,7 @@ Graph theory based approach to identify phase transitions in condensed matter
 
 This repository contains the implementation of key algorithms, computed results, and Python scripts for visualizing all figures from the article "Graph theory based approach to identify phase transitions in condensed matter".
 
-The related article is published in Physical Review B (PRB) and available at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
+The related article is published in Physical Review B (PRB) and can be accessed at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
 
 
