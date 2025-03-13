@@ -7,7 +7,7 @@ The related article is published in Physical Review B (PRB) and can be accessed 
 
 This article has topped the download rankings of PRB, see https://x.com/PhysRevB/status/1898772287639163017.
 
-<img src="./fig/PRB.png" alt="PRB" title="PRB" width="500">
+<img src="./fig/PRB.png" alt="PRB" title="PRB" width="600">
 
 Computation of Cut Distance
 -----------------
