@@ -5,10 +5,6 @@ This repository contains the implementation of key algorithms, computed results,
 
 The related article is published in Physical Review B (PRB) and can be accessed at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
-This article has topped the download rankings of PRB, see https://x.com/PhysRevB/status/1898772287639163017.
-
-<img src="./fig/PRB.png" alt="PRB" title="PRB" width="500">
-
 Computation of Cut Distance
 -----------------
 
@@ -74,3 +70,10 @@ See "MD_simulation" directory for the LAMMPS scripts.
 
 Graph Construction:
 Fully connected graphs with edge weights representing the spatial distances of particles.
+
+
+
+Others
+-----------------
+This article has topped the download rankings of PRB, see https://x.com/PhysRevB/status/1898772287639163017.
+<img src="./fig/PRB.png" alt="PRB" title="PRB" width="500">
