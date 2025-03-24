@@ -12,7 +12,7 @@ See "cut_dist" directory.
 
 Computation of Cut Distance (All Languages)
 -----------------
-See repo "_____"
+See repo https://github.com/anwanguow/cut_dist_all_languages
 
 Molecular Dynamics (MD) Simulation
 -----------------
