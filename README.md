@@ -13,6 +13,8 @@ See "cut_dist" directory.
 Reference
 -----------------
 
+Please consider adding the following citation if you use this work in your research.
+
 ```bibtex
 @article{wang2025graph,
   title={Graph theory based approach to identify phase transitions in condensed matter},
