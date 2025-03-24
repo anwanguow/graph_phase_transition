@@ -13,7 +13,18 @@ See "cut_dist" directory.
 Reference
 -----------------
 
-<pre><code>```bibtex @article{wang2025graph, title={Graph theory based approach to identify phase transitions in condensed matter}, author={Wang, An and Sosso, Gabriele C}, journal={Physical Review B}, volume={111}, number={5}, pages={054116}, year={2025}, publisher={APS} } ```</code></pre>
+```bibtex
+@article{wang2025graph,
+  title={Graph theory based approach to identify phase transitions in condensed matter},
+  author={Wang, An and Sosso, Gabriele C},
+  journal={Physical Review B},
+  volume={111},
+  number={5},
+  pages={054116},
+  year={2025},
+  publisher={APS}
+}
+```
 
 Figures
 -----------------
