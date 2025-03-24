@@ -10,6 +10,14 @@ Computation of Cut Distance
 
 See "cut_dist" directory.
 
+Molecular Dynamics (MD) Simulation
+-----------------
+
+See "MD_simulation" directory for the LAMMPS scripts.
+
+Graph Construction:
+Fully connected graphs with edge weights representing the spatial distances of particles.
+
 Reference
 -----------------
 
@@ -76,17 +84,6 @@ Fig.8a)
 Fig.8b)
 
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
-
-
-
-
-Molecular Dynamics (MD) Simulation
------------------
-
-See "MD_simulation" directory for the LAMMPS scripts.
-
-Graph Construction:
-Fully connected graphs with edge weights representing the spatial distances of particles.
 
 
 Others
