@@ -10,6 +10,10 @@ Computation of Cut Distance
 
 See "cut_dist" directory.
 
+Reference
+-----------------
+
+
 
 Figures
 -----------------
@@ -70,7 +74,6 @@ See "MD_simulation" directory for the LAMMPS scripts.
 
 Graph Construction:
 Fully connected graphs with edge weights representing the spatial distances of particles.
-
 
 
 Others
