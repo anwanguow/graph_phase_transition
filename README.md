@@ -13,7 +13,7 @@ See "cut_dist" directory.
 Computation of Cut Distance (All Languages)
 -----------------
 
-The Implementation of Cut Distance in C, C++, Java, Python, and Matlab.
+The Implementation of Cut Distance in C, C++, Java, Python, Fortran and Matlab.
 
 See repo https://github.com/anwanguow/cut_dist_all_languages.
 
