@@ -5,17 +5,17 @@ This repository contains the implementation of key algorithms, computed results,
 
 The related article is published in Physical Review B (PRB) and can be accessed at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
-Computation and Testing of Cut Distance (Python)
------------------
-
-See "cut_dist" directory.
-
 Implementation of Cut Distance (All Languages)
 -----------------
 
 The Implementation of Cut Distance in pure C, C++, Java, Python, Fortran, Matlab, and Mathematica (including both imperative and functional programming).
 
 See repo https://github.com/anwanguow/cut_dist_all_languages.
+
+Computation and Testing of Cut Distance (Python)
+-----------------
+
+See "cut_dist" directory.
 
 Molecular Dynamics (MD) Simulation
 -----------------
