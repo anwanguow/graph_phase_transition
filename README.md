@@ -10,7 +10,7 @@ Computation and Testing of Cut Distance (Python)
 
 See "cut_dist" directory.
 
-Computation of Cut Distance (All Languages)
+Implementation of Cut Distance (All Languages)
 -----------------
 
 The Implementation of Cut Distance in pure C, C++, Java, Python, Fortran, Matlab, and Mathematica (including both imperative and functional programming).
