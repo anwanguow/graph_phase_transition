@@ -91,9 +91,3 @@ Fig.8a)
 Fig.8b)
 
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
-
-
-Others
------------------
-This article has topped the download rankings of PRB, see https://x.com/PhysRevB/status/1898772287639163017.
-<img src="./fig/PRB.png" alt="PRB" title="PRB" width="500">
