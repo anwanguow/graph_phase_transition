@@ -113,7 +113,7 @@ def erdos_renyi(n, p):
     adjacency_matrix += adjacency_matrix.T
     return adjacency_matrix.astype(int)
 
-n = 30
+n = 400
 p_1 = 0.2
 p_2 = 0.5
 A = erdos_renyi(n, p_1);
