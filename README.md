@@ -46,7 +46,7 @@ Please consider adding the following citation if you use this work in your resea
 Figures
 -----------------
 
-The generation of Fig.6 requires the complete trajectory data from the KA system simulation. This data has been uploaded to Baidu Netdisk at the following link: https://pan.baidu.com/s/13V_jR030NeefVrGKnXca4Q and the access code is: f9ud. For readers who do not have access to Baidu Netdisk, please contact me directly if you need this data. My email is An.Wang@warwick.ac.uk.
+The generation of Fig.6 requires the complete trajectory data from the KA system simulation. This data has been uploaded to Baidu Netdisk at the following link: https://pan.baidu.com/s/13V_jR030NeefVrGKnXca4Q and the access code is: f9ud. For readers who do not have access to Baidu Netdisk, please contact me directly if you need this data. My email is amturing@outlook.com.
 
 
 All python scripts in "Plot" directory reproduces the computed figures in the article, including Fig.2b), Fig.2c), Fig.3a), Fig.3b), Fig.4a), Fig.4b), Fig.5b), Fig.5c), Fig.8a) and Fig.8b). Besides, the generated figures are saved in "Figure" directory, demonstrated as follow:
