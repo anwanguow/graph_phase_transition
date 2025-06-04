@@ -25,28 +25,6 @@ See "MD_simulation" directory for the LAMMPS scripts.
 Graph Construction:
 Fully connected graphs with edge weights representing the spatial distances of particles.
 
-Reference
------------------
-
-Please consider adding the following citation if you use this work in your research.
-
-```bibtex
-@article{PhysRevB.111.054116,
-  title = {Graph theory based approach to identify phase transitions in condensed matter},
-  author = {Wang, An and Sosso, Gabriele C.},
-  journal = {Phys. Rev. B},
-  volume = {111},
-  issue = {5},
-  pages = {054116},
-  numpages = {10},
-  year = {2025},
-  month = {Feb},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.111.054116},
-  url = {https://link.aps.org/doi/10.1103/PhysRevB.111.054116}
-}
-```
-
 Figures
 -----------------
 
@@ -95,6 +73,28 @@ Fig.8a)
 Fig.8b)
 
 <img src="./fig/Fig_8b.png" alt="Fig_8b" title="Fig_8b" width="450">
+
+Reference
+-----------------
+
+Please consider adding the following citation if you use this work in your research.
+
+```bibtex
+@article{PhysRevB.111.054116,
+  title = {Graph theory based approach to identify phase transitions in condensed matter},
+  author = {Wang, An and Sosso, Gabriele C.},
+  journal = {Phys. Rev. B},
+  volume = {111},
+  issue = {5},
+  pages = {054116},
+  numpages = {10},
+  year = {2025},
+  month = {Feb},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.111.054116},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.111.054116}
+}
+```
 
 Contact:
 -----------------
