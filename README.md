@@ -5,6 +5,12 @@ This repository contains the implementation of key algorithms, computed results,
 
 The related article is published in Physical Review B (PRB) and can be accessed at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
+Algorithm Implementation
+-----------------
+The implementation of the cut distance algorithm can be found in [Algorithm.pdf](Algorithm.pdf) in this repository.
+
+Please note that its content is consistent with [Algorithm.md](Algorithm.md), but since GitHub does not support rendering LaTeX formulas in markdown files, the markdown version may not display correctly.
+
 Implementation of Cut Distance (All Languages)
 -----------------
 
