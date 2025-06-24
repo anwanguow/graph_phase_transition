@@ -14,10 +14,10 @@ The detailed implementation of the cut distance algorithm can be found in [Algor
 
 Please note that its content is consistent with [Algorithm.md](Algorithm.md), but since GitHub does not support rendering LaTeX formulas in markdown files, the markdown version may not display correctly.
 
-Implementation of Cut Distance (All Languages)
+Implementation of Cut Norm (All Languages)
 -----------------
 
-The Implementation of Cut Distance in pure C, C++, Java, Python, Fortran, Matlab, and Mathematica (including both imperative and functional programming).
+The Implementation of Cut Distance (for node-labelled graphs) in pure C, C++, Java, Python, Fortran, Matlab, and Mathematica (including both imperative and functional programming).
 
 See repo https://github.com/anwanguow/cut_dist_all_languages.
 
