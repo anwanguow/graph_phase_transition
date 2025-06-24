@@ -8,7 +8,7 @@ The related article is published in Physical Review B (PRB) and can be accessed 
 Algorithm Implementation
 -----------------
 
-Due to space constraints, the [PRB article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116) only outlines the core idea of the algorithm and does not delve into every detail, since the main focus of the article is on the physics.
+Due to space constraints, the main text of this [PRB article](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116) only outlines the core idea of the algorithm and does not delve into every detail, since the main focus of the article is on the physics.
 
 The detailed implementation of the cut distance algorithm can be found in [Algorithm.pdf](Algorithm.pdf) in this repository.
 
