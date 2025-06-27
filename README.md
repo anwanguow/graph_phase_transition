@@ -29,7 +29,8 @@ Molecular Dynamics (MD) Simulation
 
 See "MD_simulation" directory for the LAMMPS scripts.
 
-Graph Construction:
+Graph Construction
+-----------------
 Fully connected and node-labelled graphs with edge weights representing the spatial distances between particles.
 
 Figures
