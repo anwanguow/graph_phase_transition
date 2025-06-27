@@ -5,6 +5,15 @@ This repository contains the implementation of key algorithms, computed results,
 
 The related article is published in Physical Review B (PRB) and can be accessed at https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.054116.
 
+Molecular Dynamics (MD) Simulation
+-----------------
+
+See "MD_simulation" directory for the LAMMPS scripts.
+
+Graph Construction
+-----------------
+Fully connected and node-labelled graphs with edge weights representing the spatial distances between particles.
+
 Algorithm Implementation
 -----------------
 
@@ -23,15 +32,6 @@ Computation and Testing of Cut Distance (Python)
 -----------------
 
 See "cut_dist" directory.
-
-Molecular Dynamics (MD) Simulation
------------------
-
-See "MD_simulation" directory for the LAMMPS scripts.
-
-Graph Construction
------------------
-Fully connected and node-labelled graphs with edge weights representing the spatial distances between particles.
 
 Figures
 -----------------
