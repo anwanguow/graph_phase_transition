@@ -17,7 +17,7 @@ Fully connected and node-labelled graphs with edge weights representing the spat
 Algorithm Implementation
 -----------------
 
-This article only outlines the core idea of the algorithm and does not delve into every detail. In the implementation, we use the trick of extending $A$ and $X$ to square matrices and expressing the objective function as taking the strict trace of a squared matrix, which can be found in [Algorithm.pdf](Algorithm.pdf) in this repository.
+This article only outlines the core idea of the algorithm and does not delve into every detail. In the implementation, we use the trick of extending $A$ and $X$ to square matrices and expressing the objective function as taking the strict trace of a square matrix, which can be found in [Algorithm.pdf](Algorithm.pdf) in this repository.
 
 Please note that its content is consistent with [Algorithm.md](Algorithm.md), but since GitHub does not support rendering LaTeX formulas in markdown files, the markdown version may not display correctly.
 
